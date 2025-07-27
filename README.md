@@ -1,6 +1,6 @@
 # **Hi 👋, I am Savir**
 
-Passionate about becoming more and more involved with LLMs and AI systems, exploring the frontiers of artificial intelligence.
+Passionate about building innovative LLM and AI solutions.
 
 - 🚀 Incoming AI intern at [Skyrelis](https://skyrelis.com/)
 - 💼 CEO at [SKWconsulting](https://www.skwconsultancy.com/)
