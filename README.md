@@ -4,7 +4,7 @@ Passionate about building innovative LLM and AI solutions.
 
 - 🚀 AI intern at [Skyrelis](https://skyrelis.com/)
 - 💼 CEO @ [SKWconsulting](https://www.skwconsultancy.com/)
-- 🔨 Founder @ [WatchWise](https://watchwise-blue.vercel.app/)
+- 🔨 Founder @ [AlgoTutor](https:algo-tutor.org)
 - 📫 Reach me at savirwangoo5@gmail.com
 
 ## Connect with me:
