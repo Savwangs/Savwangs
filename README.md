@@ -1,8 +1,8 @@
 # **Hi 👋, I am Savir**
 
-Passionate about building innovative LLM and AI solutions.
+Building [Notiq AI](https://notiqai.com)
 
-- 🚀 AI intern at [Skyrelis](https://skyrelis.com/)
+- 🚀 Agentic AI @ [Skyrelis](https://skyrelis.com/)
 - 💼 CEO @ [SKWconsulting](https://www.skwconsultancy.com/)
 - 📫 Reach me at savirwangoo5@gmail.com
 
