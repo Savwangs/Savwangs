@@ -2,8 +2,7 @@
 
 Building [Notiq AI](https://notiqai.com)
 
-- 🚀 Agentic AI @ [Skyrelis](https://skyrelis.com/)
-- 💼 CEO @ [SKWconsulting](https://www.skwconsultancy.com/)
+
 - 📫 Reach me at savirwangoo@berkeley.edu
 
 ## Connect with me:
