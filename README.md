@@ -1,7 +1,7 @@
 # **Hi 👋, I am Savir**
 
 Building [Notiq AI](https://notiqai.com)
-
+Prev Software Developer Intern @Skyrelis
 
 - 📫 Reach me at savirwangoo@berkeley.edu
 
