@@ -1,15 +1,11 @@
-# **Hi 👋, I am Savir**
+# Hi 👋, I am Savir
 
-Building [Notiq AI](https://notiqai.com)
-Prev Software Developer Intern @Skyrelis
+EECS @ UC Berkeley · Previously @ Skyrelis (AI Startup) · Building [Notiq AI](https://notiqai.com) — an edtech platform for SAT & AP exam prep, grown to 500+ users
 
 - 📫 Reach me at savirwangoo@berkeley.edu
 
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savir-wangoo-88b2b3327/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/savirwbuilds)
 
-<!--
-**Savwangs/Savwangs** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/savirwbuilds)
