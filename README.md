@@ -2,7 +2,7 @@
 
 EECS @ UC Berkeley  
 
-Previously @ [Skyrelis](https://skyrelis.com)
+Previously Software Developer @ [Skyrelis](https://skyrelis.com)
 
 Building [Notiq AI](https://notiqai.com) — edtech platform for SAT/ACT & AP exam prep, grown to 500+ users
 
