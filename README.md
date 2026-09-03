@@ -2,9 +2,9 @@
 
 EECS @ UC Berkeley  
 
-Previously Software Developer @ [Skyrelis](https://skyrelis.com)
+Previously Software Engineer @ [Skyrelis](https://skyrelis.com)
 
-Building [Notiq AI](https://notiqai.com) — edtech platform for SAT/ACT & AP exam prep, grown to 500+ users
+Building [Notiq AI](https://notiqai.com) — edtech platform for SAT/ACT & AP exam prep
 
 - 📫 Reach me at savirwangoo@berkeley.edu
 
